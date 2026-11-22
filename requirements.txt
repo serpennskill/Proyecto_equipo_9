@@ -1,7 +1,6 @@
 numpy>=1.26
 pandas>=2.1
 matplotlib>=3.8
-matplotlib.pyplot
 scipy>=1.11
 notebook>=7
 nbformat>=5
