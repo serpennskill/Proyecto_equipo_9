@@ -59,7 +59,6 @@ El repositorio cuenta con una estructura sencilla y centralizada, diseñada para
 | `main.ipynb` | Notebook principal que contiene el desarrollo del proyecto, incluyendo la exploración, limpieza, procesamiento, análisis y visualización de los datos. |
 | `dict.pdf` | Diccionario completo de la base de datos utilizada. |
 | `requirements.txt` | Archivo que especifica las librerías y versiones necesarias para ejecutar el proyecto. |
-| `resultados.pdf` | Presentamos los resultados más importantes y conclusiones del proyecto. |
 | `README.md` | Documento que presenta el proyecto, sus objetivos, metodología e integrantes. |
 
 El conjunto de datos utilizado para el desarrollo del proyecto se encuentra disponible en la sección *Releases* del repositorio.
